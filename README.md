@@ -82,15 +82,19 @@ Top factors influencing delivery time:
 ```text
 DeliveryDelayPrediction/
 │
-├── DATA/
-│   └── train.csv
+├── data/
+│   └── DATA.csv
+│
+├── images/
+│   └──
 │
 ├── notebooks/
 │   └── delivery_delay_prediction.ipynb
 │
+├── presentation/
+│   └──
+│ 
 ├── README.md
-│
-└── requirements.txt
 ```
 
 ## How to Run
