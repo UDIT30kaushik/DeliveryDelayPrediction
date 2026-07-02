@@ -86,13 +86,11 @@ DeliveryDelayPrediction/
 │   └── DATA.csv
 │
 ├── images/
-│   └──
+│   
 │
 ├── notebooks/
 │   └── delivery_delay_prediction.ipynb
 │
-├── presentation/
-│   └──
 │ 
 ├── README.md
 ```
